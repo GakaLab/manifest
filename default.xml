@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="https://github.com"
+           revision="master"
+           review="" />
+  <project name="gakalab/manifest" path="manifest" remote="github" />
+</manifest>
